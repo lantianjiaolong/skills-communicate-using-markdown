@@ -35,3 +35,11 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+.lightly
+.c_bin
+.classes
+logs
+node_modules
+dist
+dist-ssr
+*.local
